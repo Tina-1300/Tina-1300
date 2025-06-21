@@ -34,7 +34,7 @@
 
 ### 🔗 Useful links
 
-- 💼 [Mes projets GitHub](https://github.com/Tina-1300?tab=repositories)
+- 💼 [My GitHub Projects](https://github.com/Tina-1300?tab=repositories)
 
 
 
