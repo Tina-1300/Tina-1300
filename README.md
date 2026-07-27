@@ -1,41 +1,162 @@
-## 👋 Hi there, I'm Tina-1300!
+<div align="center">
+
+# Tina-1300
+
+### Software Engineer • Full Stack Developer
+
+Building software with a focus on **performance**, **maintainability** and **developer experience**.
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+software...;Creating+libraries...;Always+learning...;Contibute+OpenSource..." />
+</p>
+
+</div>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
 
-💻 Passionate about **programming**, I create **software**, **websites**, **APIs** and **libraries** to make life simpler, faster and more secure.
-
-🔐 Serious, rigorous, and always striving for improvement, I make it a point of honor to produce **clean**, **maintainable**, and **efficient** code.
 
 ---
 
-### 🧠 About Me
-- 🚀 I create ambitious projects with a true vision
-- 📦 I develop reusable and modular **libraries**
-- 🌐 I enjoy designing robust and secure **APIs**
-- 🎨 I build **modern and responsive interfaces**
-- 🔧 I continually explore best **development practices**
+
+## Overview
+
+
+
+Programming is more than writing code.
+
+It's about designing solutions, creating reusable tools and constantly improving the way software is built.
+
+I enjoy working on projects from the first idea to the final release, whether it's a library, a backend service, a desktop application or a complete full-stack platform.
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Currently Building
+
+- Open Source libraries
+- Desktop Application
+- Web Application
+
+</td>
+
+<td width="50%" valign="top">
+
+### Interests
+
+- Software Engineering
+- Backend Development
+- A Little Frontend Developement
+- Systems Programming
+- Clean Architecture & Clean Code 
+- Performance Optimization
+- Developer Experience
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 🛠️ Technologies & Tools
+# Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,zig,go,python,php,js"/>
+
+<br><br>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=python,rust,sqlite,postgresql"/>
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode"/>
+
+</div>
 
 ---
 
-### 🔗 Useful links
-
-- 💼 [My GitHub Projects](https://github.com/Tina-1300?tab=repositories)
 
 
+```mermaid
+mindmap
+  root((✨ Developer Philosophy))
+    🧩 Simple Code
+      Clean
+      Readable
+      Maintainable
+    🛡️ Reliable Software
+      Stable
+      Secure
+      Tested
+    📦 Reusable Components
+      Modular
+      Flexible
+      Scalable
+    ⚡ Performance
+      Efficient
+      Optimized
+      Fast
+    🌱 Learning
+      Improve
+      Explore
+      Adapt
+    🤝 Collaboration
+      Open Source
+      Share Knowledge
+      Build Together
+```
 
+---
 
+# Open Source
+
+Open source is more than writing code it's about sharing knowledge, collaborating with developers around the world, and helping build software that anyone can learn from, improve, and use.
+
+Contributing to existing projects is an opportunity to give back to the community, solve real-world problems, and continuously grow as a developer. Every contribution, whether it's fixing a bug, improving performance, refining documentation, or introducing a new feature, helps make the ecosystem stronger for everyone.
+
+I believe that the best software is built together, and I'm proud to be part of that journey.
+
+- [https://github.com/laravel/framework/pull/57621](https://github.com/laravel/framework/pull/57621)
+- [https://github.com/rwf2/Rocket/pull/2986](https://github.com/rwf2/Rocket/pull/2986)
+- [https://github.com/bilyayeva/stl-from-scratch](https://github.com/bilyayeva/stl-from-scratch)
+
+---
+
+# Current Mindset
+
+```C
+class Developer{
+    public:
+        void Learn();
+        void Create();
+        void Improve();
+};
+
+int main(){
+    Developer tina;
+    while (true){
+        tina.Learn();
+        tina.Create();
+        tina.Improve();
+    }
+}
+```
+
+---
+
+<div align="center">
+
+### "Build something today that you'll still be proud of tomorrow."
+
+</div>
