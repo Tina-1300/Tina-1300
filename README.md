@@ -15,12 +15,9 @@ Building software with a focus on **performance**, **maintainability** and **dev
 <div>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
 </div>
-
+<br><br>
 
 ---
-
-
-
 
 
 ## Overview
