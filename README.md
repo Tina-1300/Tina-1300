@@ -14,9 +14,9 @@ Building software with a focus on **performance**, **maintainability** and **dev
 
 </td>
 
-<td width="250" align="right" valign="top">
+<td width="250" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
 
 </td>
 
