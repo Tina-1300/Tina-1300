@@ -12,10 +12,18 @@ Building software with a focus on **performance**, **maintainability** and **dev
 
 </div>
 
-<div>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
-</div>
-<br><br>
+</td>
+
+<td width="250" align="right" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 ---
 
